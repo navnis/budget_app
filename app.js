@@ -12,6 +12,8 @@ var UIContoller= (function(){
 //Global app Controller
 var controller = (function(budgetController, UICtrl){
 
+    var ctrlAddItem = function(){}
+
     document.querySelector('.add__btn').addEventListener('click', function(){
         
     });
